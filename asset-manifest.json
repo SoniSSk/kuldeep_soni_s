@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuldeep_soni_s/static/css/main.1353e6df.css",
+    "main.js": "/kuldeep_soni_s/static/js/main.329b4e19.js",
+    "static/media/kuldeep_s.png": "/kuldeep_soni_s/static/media/kuldeep_s.1ff5d01ab6e549d97929.png",
+    "static/media/Kuldeep_Soni_React.pdf": "/kuldeep_soni_s/static/media/Kuldeep_Soni_React.25eb4020c5b0639b4b62.pdf",
+    "index.html": "/kuldeep_soni_s/index.html",
+    "main.1353e6df.css.map": "/kuldeep_soni_s/static/css/main.1353e6df.css.map",
+    "main.329b4e19.js.map": "/kuldeep_soni_s/static/js/main.329b4e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1353e6df.css",
+    "static/js/main.329b4e19.js"
+  ]
+}
